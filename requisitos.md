@@ -4,7 +4,7 @@
 <img src="">
 <img src="">
 
-<h2>Cenarios/h2>
+<h2>Cenarios</h2>
  
 <p>1ª cenario
 Daniel estava navegando pelas redes sociais, e encontrou o jogo chamado Contrate-me, como havia acabado de se formar no ensino médio, achou viável baixar o aplicativo para aprender como se portar em uma entrevista de emprego. 
