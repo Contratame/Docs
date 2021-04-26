@@ -1,8 +1,8 @@
 # Requisitos
 
 <h2>Personas</h2>
-<img src="">
-<img src="">
+<img src="https://github.com/Contratame/Docs/blob/main/UntitledUserPersona.png">
+<img src="https://github.com/Contratame/Docs/blob/main/UntitledUserPersona%20(1).png">
 
 <h2>Cenarios</h2>
  
