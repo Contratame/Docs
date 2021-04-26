@@ -15,4 +15,4 @@ Joana é formada em psicologia, e há 10 anos trabalha com recrutamento, percebe
 Na busca de ferramentas, para auxiliar no seu projeto, ela acabou encontrando nos games uma maneira lúdica e simples de passar os conceitos que ela buscava. No aplicativo Contrata-me, ela teve uma experiência bem próxima do que acontecera em seus processos. Com uma história de múltiplas escolhas e com sistema de pontuação, ela pôde perceber que o aplicativo seria o ideal para o ensino, além da facilidade de poder ser jogado com apenas um toque a cada pergunta. Joana então sugeriu que os alunos baixassem o aplicativo, para colocar em prática os conceitos passados no projeto social orquestrado por ela.</p> 
  
 <h2>Histórias de usuários</h2>
-<img src="">
+<img src="https://github.com/Contratame/Docs/blob/main/historias.PNG">
